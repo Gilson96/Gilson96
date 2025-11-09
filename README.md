@@ -16,5 +16,5 @@ I love learning from talented people and contributing to something that truly ma
 
 💻 Languages: CSS3,  HTML5, JavaScript, MySQL
 
-🧰 Tools & Technologies : React,TailwindCSS
+🧰 Tools & Technologies : React, Git, NodeJS, PSQL TDD
 
