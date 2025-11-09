@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there! I'm Gilson de Almeida.
 
-<!--
-**Gilson96/Gilson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍Based in UK
 
-Here are some ideas to get you started:
+I’m a software developer who loves tackling tough problems and creating great user experiences. I get excited by new challenges and finding better ways to build clean, effective solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning from talented people and contributing to something that truly matters.
+
+### Contact Information
+
+📧 Email: grafael99@gmail.com
+
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilson-de-almeida/)
+
+### Tech Skills 
+
+💻 Languages: CSS3,  HTML5, JavaScript, MySQL
+
+🧰 Tools & Technologies : React,TailwindCSS
+
