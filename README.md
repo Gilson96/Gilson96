@@ -2,8 +2,6 @@
 
 📍 Based in the UK  
 
-Junior full-stack developer focused on building real-world web applications.
-
 Working mainly with React, Node.js, and SQL/NoSQL databases. Interested in clean code, problem-solving, and turning ideas into practical products.
 
 ---
