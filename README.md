@@ -2,7 +2,7 @@
 
 📍 Based in the UK  
 
-Working mainly with React, Node.js, and SQL/NoSQL databases. Interested in clean code, problem-solving, and turning ideas into practical products.
+Software developer specialising in modern JavaScript, with hands-on experience building and deploying full-stack web and mobile applications. Experienced working in Agile environments through commercial internship experience, contributing to production-ready features and collaborating within cross-functional teams. Strong foundation in designing APIs, managing databases, and developing responsive, user-focused interfaces. 
 
 ---
 
